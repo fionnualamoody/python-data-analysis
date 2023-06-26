@@ -1,0 +1,5 @@
+Total sales:45542
+Monthly changes:-75.5701895277867
+Highest sales:7479
+Lowest sales:1521
+Average sales:3795.1666666666665
